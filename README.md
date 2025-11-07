@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucScript
+- 👋 Hi, I’m @Lucas
 - I'm a french junior devloper
 - 👀 I’m interested in web devlopment, software engeneering, pc
 - 🌱 I’m currently learning software engeneering
